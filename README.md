@@ -8,8 +8,8 @@ A Roblox game where players adventure into the procedure generation terrain.
 **Current Status:** Pre-Alpha (Focusing on Core Loop)
 
 ---
-
-<!-- ## 🚀 Project Overview & Planning
+<!-- 
+## 🚀 Project Overview & Planning
 
 | Document             | Description                                       | Status      |
 |----------------------|---------------------------------------------------|-------------|
