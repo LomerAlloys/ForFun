@@ -19,7 +19,11 @@ All notable changes to this project will be documented in this file.
 
 ## Past Development (The Grand Recap)
 
-
+28/04/25: UI item changed
+26/04/25: Working on shrine
+21/04/25: Add bandit camp and castle structure
+09/04/25: Add enemies in to the game
+08/04/25: Add more structure in spawn pool
 
 31/03/25: Touch on base combat
 26/03/25: Spawn a structure on island
