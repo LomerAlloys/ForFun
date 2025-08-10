@@ -7,7 +7,8 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased] - In Progress
 
 ### Added
-- *(Log new features here)*
+- Build a pre-placed structure.
+- More starter weapons.
 
 ### Changed
 - *(Log updates to existing features here)*
