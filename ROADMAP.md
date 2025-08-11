@@ -3,3 +3,5 @@
 ## ⚠️ In progress : 
 
 Clear game progress
+
+Teaching mode
