@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Build a pre-placed structure.
 - More starter weapons.
+- Change early game
 
 ### Changed
 - *(Log updates to existing features here)*
