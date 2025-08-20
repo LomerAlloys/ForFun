@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - Change early game
+- Wisp selection UI Change
 
 ### Fixed
 - *(Log bug fixes here)*
