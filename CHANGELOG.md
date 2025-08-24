@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - More starter weapons.
 
 - Working on building mechanic
+- Add Storage system
 
 ### Changed
 - Change early game
