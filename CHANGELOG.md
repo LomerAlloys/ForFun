@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+25/08/25: Work on Storage system/ Start on Worktable class for crafting table
+
 ## [Unreleased] - In Progress
 
 ### Added
