@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+26/08/25: Work/Plan/Design on the crafting Class. Done mockup crafting UI
+
 25/08/25: Work on Storage system/ Start on Worktable class for crafting table
 
 ## [Unreleased] - In Progress
