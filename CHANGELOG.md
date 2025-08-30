@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased] - In Progress
+
+### Added
+- *(Log added feature)*
+
+### Changed
+- *(Log changes)*
+
+### Fixed
+- *(Log bug fixes here)*
+
 ---
 
 30/08/25: Finishing crafting system
@@ -12,26 +23,11 @@ All notable changes to this project will be documented in this file.
 
 25/08/25: Work on Storage system/ Start on Worktable class for crafting table
 
-## [Unreleased] - In Progress
+12/08/25: Change early game
 
-### Added
-- Build a pre-placed structure.
-- More starter weapons.
-
-- Working on building mechanic
-- Add Storage system
-
-### Changed
-- Change early game
-- Wisp selection UI Change
-
-### Fixed
-- *(Log bug fixes here)*
+10/08/25: Build a pre-placed structure. More starter weapons.
 
 ---
-
-## Past Development (The Grand Recap)
-
 
 07/06/25: Dungeon system
 
