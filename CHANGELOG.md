@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+30/08/25: Finishing crafting system
+
 28/08/25: Team update on Animation and Model
 
 26/08/25: Work/Plan/Design on the crafting Class. Done mockup crafting UI
