@@ -13,9 +13,14 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - *(Log bug fixes here)*
 
+
+
+
 ---
 
-30/08/25: Finishing crafting system
+31/08/25: Team Meeting and planning.
+
+30/08/25: Finishing crafting system. Finished Starter weapon animations. 
 
 28/08/25: Team update on Animation and Model
 
