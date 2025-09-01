@@ -16,6 +16,8 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
+01/09/25: Planning and Recap all the game mechanic with the team.
+
 ---
 
 31/08/25: Team Meeting and planning.
