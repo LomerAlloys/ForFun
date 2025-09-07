@@ -16,6 +16,8 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
+05/09/25: Assign work for the team
+
 01/09/25: Planning and Recap all the game mechanic with the team.
 
 ---
