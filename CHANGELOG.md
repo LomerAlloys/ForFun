@@ -16,6 +16,8 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
+07/09/25: Working on planting system.
+
 06/09/25: Early Phase 1 game player's journey and Animations update
 
 05/09/25: Assign work for the team
