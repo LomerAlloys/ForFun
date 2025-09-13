@@ -16,6 +16,8 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
+13/09/25: Hold planting system. Working on reserved server for private singleplayer world.
+
 07/09/25: Working on planting system.
 
 06/09/25: Early Phase 1 game player's journey and Animations update
