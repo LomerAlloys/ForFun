@@ -16,6 +16,10 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
+20/09/25: Test Class after 2 months.
+
+19/09/25: Finished reserved server world. Able to join world with code.
+
 13/09/25: Hold planting system. Working on reserved server for private singleplayer world.
 
 07/09/25: Working on planting system.
