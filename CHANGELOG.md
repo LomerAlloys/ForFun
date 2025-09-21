@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 
 Daily Update
 
-20/09/25: Test Class after 2 months.
+20/09/25: Test Class after 2 months. Note out alot of bug to fix later.
 
 19/09/25: Finished reserved server world. Able to join world with code.
 
